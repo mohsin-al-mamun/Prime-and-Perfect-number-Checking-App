@@ -1,0 +1,139 @@
+
+body{
+    margin:0;
+    padding: 0;
+    background-image: url("pexels-photo-3473569.jpeg");
+    background-size: cover;
+
+
+}
+
+
+.container{
+    position: relative;
+    left: 10vw;
+    top:10vh;
+    width: 80vw;
+    background-color: darkcyan;
+    height: 60vh;
+    padding: 5px;
+    /* background-image: url("pexels-photo-235767.jpeg");
+    background-size: cover; */
+    background: none;
+    
+}
+.items{
+    width:20%;
+    height: 15%;
+    background: rgba(52, 168, 16, 0.7);
+    margin: 5px;
+    position: absolute;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    font-family:sans-serif ;
+    
+}
+
+#one{ height: 91%;
+
+}
+
+#two{
+    left: 22%;
+    width: 55.5%;
+    height: 68%;
+    background-image: url("34256695-numbers-design-for-mathematics-background-green-tone.jpg");
+    background-size: cover;
+    
+}
+
+.form{
+    align-items: center;
+}
+
+
+
+#input{
+    margin-bottom: 8px;
+    width: 70%;
+    height: 50px;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    
+   
+}
+
+ #two p{ 
+    font-size:25px;
+    /* background-color: teal; */
+    margin-bottom: 7px;
+    color: whitesmoke;
+   
+   
+  
+
+}
+
+.input{
+    width:20%;
+    height: 30px;
+    margin-left: 1%;
+    margin-right: 1%;
+    background-color: yellow;
+    color: black;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+
+h3{  font-family: sans-serif;
+     background-color: rgba(236, 59, 15,0.6);
+     width: 70%;
+     margin-left: 15%;
+     min-height: 35px;
+     text-align: center;
+     padding-top:10px;
+     border-radius: 5px;
+     border: none;
+     outline: none;
+     
+}
+
+
+
+
+#three{
+    
+    right: 0;
+    height: 91%;
+    
+    /* margin-top: 1%;
+    margin-right: 1%; */
+}
+
+
+#four{
+    
+    left: 22%;
+    width: 55.5%;
+    bottom: 0; 
+    padding: 2px;
+    padding-top: 20px;
+
+}
+
+
+
+.items p{
+    font-family: sans-serif;
+    font-size: 1em;
+}
+#one p {
+    margin-top: 50%;
+}
+#three p{
+    margin-top: 20%;
+}
